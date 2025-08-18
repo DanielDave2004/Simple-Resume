@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f8f8f8;
+}
+
+.resume {
+    width: 800px;
+    margin: 20px auto;
+    background: white;
+    padding: 30px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.profile-section {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.photo img {
+    width: 150px;
+    height: 150px;
+    border: 2px solid #333;
+    object-fit: cover;
+}
+
+
+.name p {
+    margin: 20px;
+}
+
+.name h2 {
+    margin: 20px;
+    font-size: 24px;
+    color: black;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h3 {
+    background: #333;
+    color: white;
+    padding: 5px 10px;
+    margin: 0 0 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+
+.reference p {
+    margin-bottom: 10px;
+}
